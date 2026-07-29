@@ -22,7 +22,7 @@ O projeto utiliza as seguintes bibliotecas [cite: 1]:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/ppedrosaa/Asset-Viewer.git
    cd seu-repositorio
    ```
 
@@ -39,7 +39,7 @@ O projeto utiliza as seguintes bibliotecas [cite: 1]:
 
 ## 📂 Saída (Arquivos Gerados)
 
-Após a execução, os seguintes painéis HTML serão criados no diretório do projeto e atualizados em background a cada 30 segundos [cite: 1]:
+Após a execução, os seguintes painéis HTML serão criados no diretório do projeto e atualizados em background a cada 30 segundos:
 - `tv_dolar.html`
 - `tv_ibovespa.html`
 - `tv_brent.html`
@@ -47,4 +47,4 @@ Após a execução, os seguintes painéis HTML serão criados no diretório do p
 
 ## 👨‍💻 Autor
 
-- **Pedro Henrique Vieira Pedrosa** (pedrosa)
+- **Pedro Henrique Vieira Pedrosa** 
