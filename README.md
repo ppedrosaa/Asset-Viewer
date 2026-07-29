@@ -1,14 +1,14 @@
 # Market Display Dashboard 📈
 
-Um script em Python para monitoramento e criação de dashboards financeiros em tempo real. Este projeto consulta dados intradiários e gera páginas HTML estáticas que se atualizam automaticamente com cotações e gráficos interativos [cite: 1].
+Um script em Python para monitoramento e criação de dashboards financeiros em tempo real. Este projeto consulta dados intradiários e gera páginas HTML estáticas que se atualizam automaticamente com cotações e gráficos interativos.
 
 ## 🚀 Funcionalidades
 
-- **Gráficos em Tempo Real (Candlestick):** Monitoramento contínuo de ativos principais (Dólar, Ibovespa e Petróleo Brent) com gráficos gerados nativamente [cite: 1].
-- **Painel de Índices Globais:** Acompanhamento das variações percentuais dos principais índices mundiais (S&P 500, NASDAQ, Dow Jones, DAX, Nikkei 225, etc.) [cite: 1].
-- **Auto-Refresh:** As páginas geradas possuem recarregamento automático (padrão de 30 segundos), ideal para exibição em TVs ou monitores de mercado dedicados [cite: 1].
-- **Interface Otimizada:** Visual em *Dark Mode* estruturado com cores de destaque e grid responsivo [cite: 1].
-- **Abertura Automática:** O script cria os arquivos e já os abre automaticamente no navegador padrão do sistema [cite: 1].
+- **Gráficos em Tempo Real (Candlestick):** Monitoramento contínuo de ativos principais (Dólar, Ibovespa e Petróleo Brent) com gráficos gerados nativamente 
+- **Painel de Índices Globais:** Acompanhamento das variações percentuais dos principais índices mundiais (S&P 500, NASDAQ, Dow Jones, DAX, Nikkei 225, etc.) 
+- **Auto-Refresh:** As páginas geradas possuem recarregamento automático (padrão de 30 segundos), ideal para exibição em TVs ou monitores de mercado dedicados
+- **Interface Otimizada:** Visual em *Dark Mode* estruturado com cores de destaque e grid responsivo 
+- **Abertura Automática:** O script cria os arquivos e já os abre automaticamente no navegador padrão do sistema 
 
 ## 🛠️ Tecnologias e Dependências
 
